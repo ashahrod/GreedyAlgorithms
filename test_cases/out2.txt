@@ -1,0 +1,2 @@
+1-clustering:
+(1, 1)
